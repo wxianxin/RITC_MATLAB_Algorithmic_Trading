@@ -12,7 +12,7 @@ Succeeded in performing algorithm of market scenario recognition
 Reduced risk position exposure by auto position balancing strategy
 Accomplished fast open-position clearing algorithm
 
-This strategy is consistent on RIT simulation servers.
+This strategy is consistent on RIT simulation servers(Please refer to the png files for simulation performance).
 
 FYI: 
 RIT simulation servers executes a collection of orders(one queue) every 0.2s. During the time between each execution, all submitted orders are placed in a queue.
